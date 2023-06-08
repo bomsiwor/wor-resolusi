@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T06:39:26.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LZRlap1dAI6fT87S0yCZ" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:10:56.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eRGD4elk8NUHRVM3jgmt" version="21.3.7" type="github" pages="4">
   <diagram name="Context User" id="PffZLn2qhV7RO9Ww-wiQ">
     <mxGraphModel dx="733" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,8 +153,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QZ1oZch-Ag_mNS9cPy7d" name="Page-3">
-    <mxGraphModel dx="926" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="QZ1oZch-Ag_mNS9cPy7d" name="DFD-0 usre a">
+    <mxGraphModel dx="1354" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,6 +402,91 @@
         </mxCell>
         <mxCell id="YctXWDUPUdClEnAzZvZ4-3" value="Informasi Catatan Kunjungan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="530" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZUDsleWb9SQxXhxho-5g" name="DFD-0 user b">
+    <mxGraphModel dx="765" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9slTTcvjmorwkPR9qz7h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.056;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZTBzDwGpa-L8rwkjt9RP-1" target="ZTBzDwGpa-L8rwkjt9RP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTBzDwGpa-L8rwkjt9RP-1" target="9slTTcvjmorwkPR9qz7h-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTBzDwGpa-L8rwkjt9RP-1" value="Pengguna Biasa, Admin, Kepala Lab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTBzDwGpa-L8rwkjt9RP-2" target="ZTBzDwGpa-L8rwkjt9RP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="70" />
+              <mxPoint x="290" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZTBzDwGpa-L8rwkjt9RP-2" target="9slTTcvjmorwkPR9qz7h-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTBzDwGpa-L8rwkjt9RP-2" value="9. Catatan Penggunaan detektor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="100" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9slTTcvjmorwkPR9qz7h-1" target="ZTBzDwGpa-L8rwkjt9RP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9slTTcvjmorwkPR9qz7h-1" target="9slTTcvjmorwkPR9qz7h-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-1" value="10. Catatan Penerimaan Radiasi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.935;entryY=0.766;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9slTTcvjmorwkPR9qz7h-7" target="ZTBzDwGpa-L8rwkjt9RP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-7" value="Catatan Penggunaan Detektor" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9slTTcvjmorwkPR9qz7h-8" target="9slTTcvjmorwkPR9qz7h-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="258" />
+              <mxPoint x="785" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-8" value="Catatan Penerimaan Radiasi" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9slTTcvjmorwkPR9qz7h-20" value="Form Pencatatan Penggunaan Detektor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-1" value="Form Pencatatan Penggunaan Detektor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="115" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Form Pencatatan &lt;br&gt;Penerimaan Radiasi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-5" value="Informasi Catatan Penggunaan Detektor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-6" value="Informasi Catatan &lt;br&gt;Penggunaan Detektor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="720" y="158" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-7" value="Informasi Catatan &lt;br&gt;Penerimaan Radiasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="715" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Form Pencatatan &lt;br&gt;Penerimaan Radiasi&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="194" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwe7vG3M7011y1nD48v-9" value="Informasi Catatan &lt;br&gt;Penerimaan Radiasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="433" y="253" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
