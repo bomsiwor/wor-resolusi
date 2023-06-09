@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T07:00:32.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.8" etag="MvnF9gngBKXiMQ9epUer" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T07:10:40.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="NRORUOK0_xKtGESjVqVx" version="21.3.8" type="github">
   <diagram name="Page-1" id="2BWBL9LhCVE8aSUYxhcr">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0wUIN9ISKRkrQN464C6L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.556;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-1" target="0wUIN9ISKRkrQN464C6L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-1" value="Mengumpulkan data bahan penelitian dari Laboratorium Instrumentasi Nuklir" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-2" target="0wUIN9ISKRkrQN464C6L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-2" value="Membuat diagram perancangan Aplikasi &amp;amp; Pembuatan tabel basis data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-3" target="0wUIN9ISKRkrQN464C6L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-3" target="0wUIN9ISKRkrQN464C6L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-3" value="Evaluasi Rancangan dan tabel yang telah dibuat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-7" target="0wUIN9ISKRkrQN464C6L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-7" value="Pengembangan Aplikasi web dengan Laravel Framework" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="465" y="270" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-9" target="0wUIN9ISKRkrQN464C6L-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-9" value="Pengujian aplikasi web dan API service dengan metode blackbox testing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-12" target="0wUIN9ISKRkrQN464C6L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-12" target="0wUIN9ISKRkrQN464C6L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0wUIN9ISKRkrQN464C6L-12" target="0wUIN9ISKRkrQN464C6L-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-12" value="Evaluasi pengujian" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="390" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-15" value="Penyelesaian akhir aplikasi" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="820" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUIN9ISKRkrQN464C6L-16" value="Pembuatan laporan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="960" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
